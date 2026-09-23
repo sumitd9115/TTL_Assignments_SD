@@ -144,4 +144,4 @@ See `requirements.txt` for the complete pinned dependency list.
 
 ## 🙋 Author
 
-**Dvit Gohil**
+**Sumit Deshpande**
